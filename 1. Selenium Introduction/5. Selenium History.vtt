@@ -1,0 +1,340 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:04.380
+Make them guys let's start with our lectures.
+
+00:00:04.800 --> 00:00:09.860
+The first time selenium is an open source our mission testing too.
+
+00:00:10.440 --> 00:00:17.730
+So here there are many testing tools available in the market like UDP selenium Silkie away etc. but
+
+00:00:17.730 --> 00:00:22.250
+still people prefer selenium because it is an open source.
+
+00:00:22.560 --> 00:00:26.990
+Open source in the sense you can download this tool for free.
+
+00:00:27.150 --> 00:00:31.240
+You need not paid to the selenium guys to use this tool.
+
+00:00:31.410 --> 00:00:35.530
+So this future makes selenium heart in the market.
+
+00:00:35.710 --> 00:00:38.060
+Now for example take UDP.
+
+00:00:38.070 --> 00:00:41.610
+That is one what are the emission testing do you use that tool.
+
+00:00:41.670 --> 00:00:43.190
+You'll have to pay it.
+
+00:00:43.290 --> 00:00:48.460
+But a lot of money to hit big guys to get the license of QBP.
+
+00:00:48.630 --> 00:00:49.980
+But there isn't selenium.
+
+00:00:49.980 --> 00:00:55.400
+What all you do is just go to that Web site officials Elenium lab say non-grata selenium.
+
+00:00:55.500 --> 00:00:56.670
+And start working.
+
+00:00:57.000 --> 00:00:57.680
+OK.
+
+00:00:57.870 --> 00:01:03.030
+So that's pretty much open source flexibility you have in Distel.
+
+00:01:03.420 --> 00:01:07.110
+So that made whole ward to look blue or selenium.
+
+00:01:07.290 --> 00:01:08.900
+That's the first major point.
+
+00:01:09.180 --> 00:01:13.650
+And next it is used exclusively for the best applications.
+
+00:01:13.680 --> 00:01:20.970
+So that means if you are in your product if there is something which of us we know best then selenium
+
+00:01:20.970 --> 00:01:27.040
+is not brighter because people say that could be begin work on window.
+
+00:01:27.330 --> 00:01:27.840
+Right.
+
+00:01:27.900 --> 00:01:32.810
+But selenium cannot walk on Windows based applications that that is a guarantee of selenium.
+
+00:01:33.000 --> 00:01:37.620
+But that is not disadvantage when they are designing selenium.
+
+00:01:37.620 --> 00:01:44.430
+Their intention is to develop something exclusively for their based only so selenium intention.
+
+00:01:44.460 --> 00:01:48.560
+Intention here is to support their best applications only.
+
+00:01:48.790 --> 00:01:49.110
+OK.
+
+00:01:49.140 --> 00:01:52.700
+That cannot be a design disadvantage because this is restricted to them.
+
+00:01:53.130 --> 00:01:58.920
+So if you have something mainframe kind of application or a the best and this tool cannot walk for that
+
+00:01:59.820 --> 00:02:02.650
+matter most of the products now aren't the best.
+
+00:02:02.790 --> 00:02:11.250
+So you could happily use the like Connett and dark and most important future of this tool is it walks
+
+00:02:11.250 --> 00:02:13.690
+on multiple operating systems.
+
+00:02:13.710 --> 00:02:18.500
+Selenium is the only tool which locks in Windows as well as Mac.
+
+00:02:18.720 --> 00:02:22.710
+There's no other tool which locks and Brus platforms.
+
+00:02:22.800 --> 00:02:25.500
+You can walk in Scolari's lane as well.
+
+00:02:25.680 --> 00:02:30.990
+So that's the flexibility you have that Distel see how cool it was.
+
+00:02:31.200 --> 00:02:34.770
+You can walk on my mobile operating systems and it is a freebie.
+
+00:02:34.980 --> 00:02:38.950
+So all these fut. made the people look better.
+
+00:02:39.260 --> 00:02:40.380
+OK.
+
+00:02:41.340 --> 00:02:42.330
+Next.
+
+00:02:42.330 --> 00:02:45.010
+So what other platforms supported by this tool.
+
+00:02:45.180 --> 00:02:51.370
+You could walk on windows you could walk on Mac mission you could walk on Linux and Solaris.
+
+00:02:51.630 --> 00:02:55.610
+So there are four platform support you have with this tool.
+
+00:02:55.830 --> 00:02:59.570
+You can walk in whatever platform you want.
+
+00:03:00.380 --> 00:03:03.430
+And now currently we can also support mobile as well.
+
+00:03:03.600 --> 00:03:09.990
+There is other old guard at IBM which is extension to the selenium and provides support to both I voice
+
+00:03:10.040 --> 00:03:12.150
+and and platforms as well.
+
+00:03:12.180 --> 00:03:17.140
+So if you have knowledge on this too even if you can even walk on mobiles as well.
+
+00:03:17.400 --> 00:03:21.990
+So that's the extensible platform support you have with this tool.
+
+00:03:22.380 --> 00:03:26.550
+And next what other languages you can write the selenium.
+
+00:03:26.580 --> 00:03:28.350
+This was an interesting question.
+
+00:03:28.410 --> 00:03:32.310
+So you can write selenium core in Java.
+
+00:03:32.310 --> 00:03:33.990
+You can also write that in C Sharp.
+
+00:03:33.990 --> 00:03:36.690
+Ruby Python PSP and Perl.
+
+00:03:37.020 --> 00:03:42.870
+So if you are proficient in any of these languages you could use this Elenium API too although maybe
+
+00:03:42.870 --> 00:03:48.230
+you are way above allegations so that that is and you'll see in the market that requirement will be
+
+00:03:48.220 --> 00:03:49.410
+in combinations.
+
+00:03:49.530 --> 00:03:53.640
+Someone telling him a Jaba someone telling him to buy them somewhere.
+
+00:03:53.670 --> 00:03:59.880
+For anyone C-Sharp or get whatever the language provision you could call yourself and selenium.
+
+00:03:59.880 --> 00:04:05.810
+This goes in telecoms on Java and that is one Marcos of mine which stocks and buy them.
+
+00:04:06.030 --> 00:04:13.190
+So Darbar and buy then these two are major languages where people used to write selenium abs.
+
+00:04:13.320 --> 00:04:19.980
+So however you all know that Darwesh very popular and if you let's remember dubba and all the many were
+
+00:04:19.980 --> 00:04:21.570
+very easy to understand.
+
+00:04:21.840 --> 00:04:22.520
+OK.
+
+00:04:22.650 --> 00:04:24.810
+So one thing you need to know.
+
+00:04:25.140 --> 00:04:27.890
+I just got one scenario I asked last are insane.
+
+00:04:28.020 --> 00:04:35.520
+My application is devil using C-Sharp can I use selenium with Java to work on shabbiest application
+
+00:04:35.590 --> 00:04:35.920
+.
+
+00:04:36.240 --> 00:04:39.030
+Yes you can do the language a lot.
+
+00:04:39.050 --> 00:04:39.310
+Right.
+
+00:04:39.320 --> 00:04:42.790
+You are agao mission core is independent of the language work.
+
+00:04:42.870 --> 00:04:45.810
+Your application is built on though the what obligations.
+
+00:04:45.830 --> 00:04:46.910
+Billie Dunn.
+
+00:04:47.070 --> 00:04:50.040
+You can happily are using selenium built by them.
+
+00:04:50.210 --> 00:04:51.620
+OK that is an independent.
+
+00:04:51.690 --> 00:04:53.950
+The other mention Gore and Lieberman.
+
+00:04:53.990 --> 00:04:55.700
+Are you going on in telling that.
+
+00:04:55.980 --> 00:05:03.240
+So whatever the language your application is built you can use any of these language to write us selenium
+
+00:05:03.240 --> 00:05:03.810
+code.
+
+00:05:04.080 --> 00:05:05.780
+So that's the bready future.
+
+00:05:05.820 --> 00:05:09.590
+You'll see that in these many languages selenium guys provide support.
+
+00:05:09.990 --> 00:05:13.490
+And in this cause others said will go get help.
+
+00:05:14.220 --> 00:05:19.500
+And one more interesting future we get with this tool is multiball was a suburb.
+
+00:05:19.680 --> 00:05:23.970
+You can work on Internet Explorer Firefox grown and Safari.
+
+00:05:24.060 --> 00:05:28.150
+Selenium is the only tool that supports grass browsers.
+
+00:05:28.400 --> 00:05:32.210
+Ok the same kind of stability you get in all these browsers.
+
+00:05:32.370 --> 00:05:37.530
+If you're big or that goes like UDP and Suku I it might fail in gloom.
+
+00:05:37.580 --> 00:05:44.430
+Art is not consistent in Safari but selenium provide same kind of stability in all the browsers.
+
+00:05:44.430 --> 00:05:48.280
+See how cool it was you can work in multiple operating systems.
+
+00:05:48.330 --> 00:05:51.390
+You can work in multi browsers and it is a free.
+
+00:05:51.570 --> 00:05:56.060
+You can and you can work in any language which you are familiar with.
+
+00:05:56.280 --> 00:05:59.680
+So all these food just made selenium hard in the market.
+
+00:05:59.910 --> 00:06:01.120
+So that's the reason.
+
+00:06:01.170 --> 00:06:06.690
+Whenever there is a product where people want to make their sprite their way of looking to selenium
+
+00:06:07.020 --> 00:06:09.750
+they want that to implement in their project.
+
+00:06:10.040 --> 00:06:16.180
+OK because there is no limit when you gather all the license expires and every year he had the light
+
+00:06:16.180 --> 00:06:19.750
+and doesn't expire you can lose but lifetime right.
+
+00:06:19.830 --> 00:06:21.340
+So that's the cool future.
+
+00:06:21.390 --> 00:06:22.790
+You get this too.
+
+00:06:23.020 --> 00:06:23.530
+OK.
+
+00:06:23.700 --> 00:06:24.960
+So in the next lecture.
+
+00:06:24.990 --> 00:06:28.460
+Let's start with the installation of selenium in our machines.
+
+00:06:28.770 --> 00:06:34.270
+Still there are more talk about does selenium kind of like that are different versions of selenium available
+
+00:06:34.680 --> 00:06:41.090
+but I just want to come out of this theoretical speaking and want to work on some tools download and
+
+00:06:41.090 --> 00:06:47.370
+we'll break up some Dava basic concepts so that once we are done with that we'll switch back the selenium
+
+00:06:47.370 --> 00:06:50.760
+and Bhagam or the Russians present in selenium.
+
+00:06:50.790 --> 00:06:51.430
+OK.
+
+00:06:51.630 --> 00:06:53.790
+So let's start the damn installation.
+
+00:06:54.030 --> 00:06:57.920
+Step one to start using selenium.
+
+00:06:57.930 --> 00:06:58.660
+OK.
+
+00:06:59.050 --> 00:06:59.680
+That's it.
+
+00:06:59.820 --> 00:07:01.040
+That's it for this lecture.
+
+00:07:01.140 --> 00:07:02.060
+Thank you.

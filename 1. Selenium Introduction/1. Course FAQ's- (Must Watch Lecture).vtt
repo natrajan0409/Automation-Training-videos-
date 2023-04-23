@@ -1,0 +1,283 @@
+WEBVTT
+
+00:00.990 --> 00:05.890
+Bienvenidos, chicos, bienvenidos al mayor curso de selenio sobre mi bien.
+
+00:06.150 --> 00:15.850
+El único tutorial de Beseler en esta plataforma con más de 50000 inscripciones de estudiantes y tengo 48
+
+00:16.020 --> 00:17.690
+bendiciones de contenido.
+
+00:18.190 --> 00:21.260
+Sí, estás en el lugar correcto.
+
+00:21.300 --> 00:23.800
+Así que antes de empezar con esto.
+
+00:24.000 --> 00:30.130
+Veamos algunos usos básicos que los estudiantes deben leer a bordo.
+
+00:30.180 --> 00:35.370
+Van a sacar provecho de los goles de selenio.
+
+00:35.730 --> 00:42.170
+Primero discutiremos todos los conceptos sobre el selenio por Dale Rembert 11.
+
+00:42.420 --> 00:46.600
+Sí, no tiene que preocuparse por el contenido del discurso.
+
+00:46.770 --> 00:54.390
+Hay alrededor de 150 conferencias de clase superior diseñadas en el discurso y usted sabe que allí, pero no está limitado por
+
+00:54.400 --> 00:57.250
+el momento en que mira el video.
+
+00:57.270 --> 01:00.660
+Esto podría leer unos 175 Bendiciones de 200.
+
+01:00.930 --> 01:04.630
+Así que los nuevos videos y actualizaciones seguirán llegando.
+
+01:04.890 --> 01:09.590
+Y conoces a este chico de hacer y conceptos sobre Selenium.
+
+01:09.690 --> 01:15.970
+Y, por supuesto, no es necesario que empiece desde cero como el selenio.
+
+01:16.080 --> 01:23.180
+Te llevo al nivel y luego puedes diseñar el marco de automatización con selenio desde cero.
+
+01:23.470 --> 01:24.050
+DE ACUERDO.
+
+01:24.210 --> 01:32.520
+Esa es la pregunta básica que debo aclarar a todos mis alumnos que están viendo esta escuela y la próxima.
+
+01:32.520 --> 01:38.130
+Y esta es una de las nociones interesantes y llego a casa y hago lo que se requiere para
+
+01:38.130 --> 01:38.960
+aprender selenio.
+
+01:39.130 --> 01:41.250
+Pienso en nuestro de esto va.
+
+01:41.550 --> 01:42.670
+Sí.
+
+01:42.790 --> 01:47.000
+Así que necesitas un poco de Java básico y selenio.
+
+01:47.270 --> 01:47.790
+DE ACUERDO.
+
+01:47.820 --> 01:53.330
+No necesitas ser un maestro en el lenguaje de programación Java para ambos Elenium en la misión.
+
+01:53.340 --> 01:56.330
+Si ese es el caso, la gente buscará antecedentes de desarrollo.
+
+01:56.370 --> 01:57.030
+Derecha.
+
+01:57.040 --> 02:00.340
+¿Por qué vienen a la unidad de prueba, por supuesto.
+
+02:00.360 --> 02:09.210
+Pero el nivel básico para que el nivel básico se cubra en parte de los objetivos, la característica interesante
+
+02:09.300 --> 02:15.130
+más singular de este curso es que inventé el selenio Dharmapala.
+
+02:15.360 --> 02:22.770
+Hay una sección específica en Java, pero la he escrito y la última, si desea revisar los conceptos
+
+02:22.770 --> 02:28.860
+básicos de Java, si desea mejorar su conocimiento de Java para que pueda llegar al
+
+02:28.920 --> 02:37.620
+final de mis objetivos y estará disponible en la sección final como opcional porque no quiero que mis alumnos comiencen con
+
+02:37.620 --> 02:41.010
+Java y se desvíen completamente del selenio.
+
+02:41.220 --> 02:49.850
+Espero que puedan obtener todos los elementos básicos de java como parte del selenio solo, así que sean pálidos al selenio.
+
+02:49.860 --> 02:55.380
+Así que cada vez que hablo sobre algunos conceptos de automatización, hay algunos puntos débiles que quiero superar.
+
+02:55.500 --> 02:58.130
+Pararé esto en la India y luego volveré a cambiar.
+
+02:58.180 --> 03:01.250
+Le expliqué eso y reanudaré mi selenio.
+
+03:01.600 --> 03:08.870
+Bien, así es como va porque hay muchos cursos en Internet que explican lo que ofreceré.
+
+03:08.870 --> 03:12.680
+¿Cómo vas a desviarte completamente del selenio?
+
+03:12.840 --> 03:13.680
+Automatización.
+
+03:13.960 --> 03:18.180
+De acuerdo, si está enfermo con antecedentes QM, comience con el selenio.
+
+03:18.270 --> 03:21.990
+Y cuando llegas al micrófono, el selenio se va.
+
+03:22.070 --> 03:25.200
+Has estado molesto, comencemos a codificar en Java.
+
+03:25.590 --> 03:27.990
+Eso es lo mal que Java.
+
+03:28.060 --> 03:28.850
+Tonto de mí.
+
+03:29.130 --> 03:36.020
+Pero aún así, si quieres ir a través de los conceptos básicos y si simplemente quieres obtener algo, no permitas que esa
+
+03:36.030 --> 03:38.370
+sección específica de Daval tenga un diseño.
+
+03:38.430 --> 03:45.860
+Entonces, de nuevo, es curioso que llegue al final del lago, justo en la sección final, que es
+
+03:46.160 --> 03:47.790
+un derecho opcional.
+
+03:47.820 --> 03:56.560
+Depende de usted, pero le sugiero que comience desde la secuencia en lugar de saltar a Java. Comience el
+
+03:56.560 --> 04:02.310
+secreto y nunca volverá a obtener los datos entre las llamadas.
+
+04:02.690 --> 04:07.340
+Y a continuación, proporciona material como diamantes para una muestra.
+
+04:07.650 --> 04:09.850
+Aunque estos son videos en línea.
+
+04:09.850 --> 04:12.990
+Eso no quiere decir que no haya instructor.
+
+04:13.330 --> 04:18.150
+Cada vez que pierdas, publica tu consulta y te responderé en 24 horas.
+
+04:18.480 --> 04:22.600
+Está bien, así que no es como dejarme obtener tu suscripción.
+
+04:22.680 --> 04:28.770
+Cada vez que asistes a esta escuela y cuando te atascas, solo tienes que enviarme un mensaje o hay
+
+04:28.770 --> 04:30.750
+un tablero de instrucciones para nosotros.
+
+04:30.940 --> 04:32.070
+Panel de discusión.
+
+04:32.110 --> 04:34.660
+Suelta el mensaje y luego te responderé.
+
+04:34.660 --> 04:36.000
+Simplemente no lo hagas por nosotros.
+
+04:36.070 --> 04:37.400
+No solo yo.
+
+04:37.480 --> 04:43.630
+Hay más de mil quinientos estudiantes que toman ambos de alguna manera y reaccionarán y
+
+04:43.630 --> 04:45.540
+responderán a su pregunta.
+
+04:45.590 --> 04:48.400
+Ok, eso es bastante ridículo.
+
+04:48.460 --> 04:49.930
+Te diré cómo va esto.
+
+04:50.020 --> 04:51.980
+Tendrás mi apoyo todo el tiempo.
+
+04:52.010 --> 04:56.160
+Puedes leer este post y hay un material disponible para descargar.
+
+04:56.160 --> 05:03.980
+Una gran evidencia de que él también puede descargar o que yo solía escribir y enseñar como parte de las escuelas.
+
+05:04.170 --> 05:05.680
+Ok y siguiente
+
+05:05.800 --> 05:10.730
+¿Alguna vez obtienes apoyo para leer Revelación, así como la revelación de sabiduría?
+
+05:10.770 --> 05:13.930
+Así que si ves el título de mi post dice.
+
+05:13.950 --> 05:20.320
+El chico de la preparación de la entrevista vino después de cada uno de los conceptos que menciono.
+
+05:20.380 --> 05:27.160
+La probabilidad de que las partes de la entrevista que un candidato pueda esperar de ese concepto en particular
+
+05:28.010 --> 05:30.700
+sean más de 15 más las facturas.
+
+05:30.880 --> 05:36.700
+Cuando leo el cociente de entrada para cada una de las respuestas, una vez que se haya
+
+05:36.720 --> 05:43.630
+completado esa sección en particular y para entonces habrá un video de preguntas de entrada que explica las partes de ese concepto.
+
+05:43.900 --> 05:50.410
+Y, finalmente, hay una sección más específica que dediqué, famosa en esta sección, que trata
+
+05:50.920 --> 05:53.140
+sobre el arte del selenio.
+
+05:53.320 --> 05:58.230
+De acuerdo, no necesitamos leer que se tomará en cuenta este tipo de represión como parte de este curso.
+
+05:58.450 --> 06:01.820
+Y una vez que haya terminado con todo el curso.
+
+06:01.870 --> 06:03.110
+Déjame un mensaje.
+
+06:03.160 --> 06:05.530
+Te daré lo más estándar que tú.
+
+06:05.880 --> 06:13.090
+De acuerdo, está bien la preparación del currículum pero las hermosas pautas que se tomarán en cuenta, pero para llegar a ese
+
+06:13.090 --> 06:16.800
+punto, tiene que completar mis objetivos y dejarme caer el mensaje.
+
+06:16.970 --> 06:24.580
+Entonces creo que luego plantearía sus preguntas y las últimas preguntas finales son estos videos
+
+06:24.580 --> 06:26.170
+disponibles para descargar.
+
+06:26.270 --> 06:31.550
+Así que he hecho algunos videos o videos de selenio para descargar.
+
+06:31.720 --> 06:37.760
+Pero nuevamente, si quieres algo que necesites ver en Atlanta varias veces, envíame un mensaje.
+
+06:37.850 --> 06:41.240
+No puedo descargar opciones para que puedas descargarlo.
+
+06:41.550 --> 06:42.270
+DE ACUERDO.
+
+06:42.490 --> 06:47.800
+Así que eso es más o menos sobre este discurso y uso vago y lo que necesita saber
+
+06:47.800 --> 06:49.600
+antes de comenzar con eso.
