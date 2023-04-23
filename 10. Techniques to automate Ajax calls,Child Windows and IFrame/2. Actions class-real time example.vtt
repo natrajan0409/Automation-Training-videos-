@@ -1,0 +1,481 @@
+WEBVTT
+
+00:01.330 --> 00:01.980
+Certo.
+
+00:02.380 --> 00:07.750
+Então, vamos agora construir uma ação composta.
+
+00:07.750 --> 00:10.570
+Isso realmente se move para específico e
+
+00:14.890 --> 00:15.330
+OK.
+
+00:15.610 --> 00:18.520
+Portanto, a moral desse argumento toma o direito de setembro.
+
+00:18.700 --> 00:31.650
+Então vamos encontrar isso em uma variável como essa e movê-la para.
+
+00:33.020 --> 00:34.420
+E você pode defender esta
+
+00:43.380 --> 00:45.330
+morte e eu copio esta string.
+
+00:45.330 --> 00:46.260
+É isso aí.
+
+00:46.800 --> 00:51.730
+Então, só para ter alguém que será dele agora.
+
+00:52.360 --> 00:56.370
+Então vamos pegar isso.
+
+00:57.030 --> 00:59.430
+Você não precisa se queimar no Facebook também.
+
+00:59.430 --> 01:07.130
+Assim, no mais recente Firefox não era tão para trás e clique direito e basta dizer inspecionar inspecionar elemento que
+
+01:07.220 --> 01:13.340
+é depender da parte de fogo no Facebook para que você tenha alguma janela como esta.
+
+01:13.560 --> 01:17.070
+Então você pode usar isso aqui.
+
+01:17.330 --> 01:18.030
+É isso aí.
+
+01:18.120 --> 01:20.030
+Você ganha um item.
+
+01:20.370 --> 01:24.830
+Agora você pode fazer isso imediatamente usando este localizador.
+
+01:25.080 --> 01:28.190
+Então eu nunca usei encontrar parte do Firefox aqui.
+
+01:28.500 --> 01:32.660
+Então é assim que você sabe que precisa praticar.
+
+01:32.900 --> 01:33.530
+Certo.
+
+01:33.960 --> 01:34.530
+Então
+
+01:37.290 --> 01:40.060
+as ações começam de novo.
+
+01:40.260 --> 01:42.600
+Precisamos nos mover para aquela
+
+01:45.920 --> 01:48.140
+porta específica do elemento.
+
+01:48.830 --> 01:51.210
+Oh, estamos nos mudando para
+
+01:54.930 --> 02:03.000
+o ID da caixa de texto que você não precisa, vamos fazer com que esses livros estejam corretos.
+
+02:11.590 --> 02:12.070
+ESTÁ BEM.
+
+02:12.360 --> 02:21.210
+Então, depois de mudar para isso, muitas vezes, passar para essa caixa específica.
+
+02:21.260 --> 02:24.120
+A maioria mudou primeiro de tudo eu preciso clicar nele.
+
+02:24.360 --> 02:24.660
+ESTÁ BEM.
+
+02:24.660 --> 02:27.050
+Basicamente, estamos simulando ações do usuário.
+
+02:27.180 --> 02:33.540
+Se você quiser escrever algo gerado automaticamente sabe se você digitar não vai acontecer para digitar nessa
+
+02:33.540 --> 02:34.930
+caixa de texto específica.
+
+02:34.950 --> 02:39.280
+Precisamos apenas clicar na caixa de texto e começar a digitar corretamente.
+
+02:39.570 --> 02:44.550
+Então, precisamos fornecer as mesmas ações aqui Foster e totalmente escuras.
+
+02:44.580 --> 02:47.340
+Temos um método chamado Excluir clique com o botão direito.
+
+02:47.370 --> 02:48.410
+Então o que vem depois?
+
+02:48.420 --> 02:57.450
+Depois de clicar, você sabe que podemos escrever todos os fóbicos em letras maiúsculas se você pressionar o botão Shift.
+
+02:57.450 --> 03:05.150
+Espero que todos saibam que se você apertar um botão e escrever as letras obrigatórias automaticamente
+
+03:05.160 --> 03:06.600
+haverá em caps.
+
+03:06.600 --> 03:07.580
+Letras maiúsculas.
+
+03:07.720 --> 03:16.450
+Ok, agora eu no meu turno, mas apenas quando eu digo olá e depois eu só vou segurar meu botão de mudança e eu disse "bateu".
+
+03:16.680 --> 03:22.950
+Ou você pode escrever em maiúsculas, mas você precisa ter certeza de que precisamos segurar esse botão e escrever isso.
+
+03:23.250 --> 03:24.890
+Então é assim que geralmente fazemos.
+
+03:24.910 --> 03:31.310
+E digamos que vamos dizer qual ação em negrito e mais para operar.
+
+03:31.920 --> 03:38.550
+Então eu sei que você escreve algo nas cartas que eu preciso pressionar meu jogo e a chave é mudar
+
+03:39.200 --> 03:42.930
+e a ação é Glassford É um método chamado chave de cartão.
+
+03:42.930 --> 03:53.280
+Você não vê isso para baixo e quais chaves são pontos é um bom começo, você obterá todas as chaves e
+
+03:53.280 --> 04:01.540
+nós precisamos manter essa aqui. A mudança à direita cresceu em letras maiúsculas quando as cabeças mudam.
+
+04:01.830 --> 04:05.340
+Ok, agora meu botão shift é chamado e agora quer.
+
+04:05.400 --> 04:11.310
+Quando eu entrar, ele entrará nas lacunas porque o turno está segurando o Guard.
+
+04:11.490 --> 04:12.670
+E agora você entra.
+
+04:12.960 --> 04:14.930
+Então, como lidar com algo na caixa de texto.
+
+04:15.050 --> 04:21.660
+Então, a chave é que nós já sabemos, assim que você perceber, quão lentamente estamos construindo as ações do
+
+04:21.900 --> 04:24.950
+meu pessoal e fazendo combates de cinismo da ação.
+
+04:24.960 --> 04:31.700
+Primeiro de tudo estamos nos movendo para esse elemento e, em seguida, clicando e, em seguida, estamos realmente segurando
+
+04:31.700 --> 04:32.090
+pressionado.
+
+04:32.280 --> 04:38.520
+E depois de segurar estou enviando a informação dizendo olá emprestada menor, mas
+
+04:38.520 --> 04:42.110
+ela vai tirar as lacunas por causa disso.
+
+04:42.690 --> 04:46.160
+Então, depois de digitar as chaves e é isso.
+
+04:46.170 --> 04:49.670
+Nós terminamos com essa etapa porque ela entrará nas lacunas.
+
+04:49.690 --> 04:56.050
+Agora, Stefan, precisamos construir todo esse dia de primavera sempre que declararmos
+
+04:56.080 --> 05:00.700
+algo com ações e depois inserirmos um dardo.
+
+05:01.000 --> 05:02.920
+E muitas vezes confuso.
+
+05:03.070 --> 05:04.490
+Precisamos executá-lo.
+
+05:04.750 --> 05:11.280
+Isso pode acontecer com a ajuda de alguns dados poderosos escuros.
+
+05:11.730 --> 05:18.030
+Veja este passo parece um pouco complexo, mas se você entender isso, foi muito fácil.
+
+05:18.030 --> 05:20.090
+Estamos nos movendo clicando para baixo.
+
+05:20.130 --> 05:26.170
+Na verdade, estamos concatenando todas as ações e, em seguida, estamos construindo toda essa ação e
+
+05:26.170 --> 05:26.730
+realizando-a.
+
+05:27.090 --> 05:29.870
+Então, quando eu fiz o meu melhor, deveria ir.
+
+05:29.910 --> 05:33.620
+E depois seguir nas letras maiúsculas.
+
+05:33.990 --> 05:37.110
+Então vamos ver se é string ou não.
+
+05:37.250 --> 05:37.500
+Certo.
+
+05:37.500 --> 05:42.660
+Então, antes disso, vou maximizar minha porta de tela.
+
+05:43.060 --> 05:46.380
+Então, na minha cabeça é.
+
+05:46.640 --> 05:48.850
+Então isso irá maximizar a tela.
+
+05:48.980 --> 05:54.530
+Vou discutir isso novamente separadamente para maximizar a janela.
+
+05:54.740 --> 05:56.470
+Estou apenas me certificando.
+
+05:56.650 --> 05:57.310
+Excelente.
+
+05:57.550 --> 06:01.970
+OK, tudo bem certo.
+
+06:02.040 --> 06:04.320
+Então eu deitei direito.
+
+06:04.370 --> 06:07.850
+Neste teste esta ocupação para e
+
+06:18.640 --> 06:19.580
+eu ainda
+
+06:22.450 --> 06:24.140
+estava aprendendo.
+
+06:24.690 --> 06:31.840
+Sim você verá que comer e ver e se sentir bem.
+
+06:32.210 --> 06:35.350
+Entrou em letras maiúsculas.
+
+06:35.350 --> 06:38.430
+Então é assim que você pode fazer isso.
+
+06:38.810 --> 06:44.250
+Em seguida, temos mais uma ação aqui.
+
+06:46.340 --> 06:52.110
+Então, digamos que eu queira selecionar isso.
+
+06:52.610 --> 06:59.040
+Então, minha exigência aqui é garantir que eu possa selecionar esse texto e morrer.
+
+06:59.300 --> 07:00.740
+Então, como você faz isso?
+
+07:01.110 --> 07:01.420
+ESTÁ BEM.
+
+07:01.460 --> 07:04.910
+Com eles foi como você seleciona este próximo.
+
+07:04.940 --> 07:07.260
+Tudo o que faz é apenas um duplo clique.
+
+07:07.520 --> 07:08.250
+É isso mesmo.
+
+07:08.420 --> 07:12.430
+Quando terminar, jogue isso e essa sequência será selecionada.
+
+07:12.680 --> 07:17.920
+Então, como faço para alcançar esse mesmo conceito com a ajuda da automação?
+
+07:18.410 --> 07:19.260
+Simples.
+
+07:19.730 --> 07:26.570
+Então, só adicionando mais uma ação aqui, estamos clicando navio após o envio de crianças Olá.
+
+07:26.570 --> 07:28.590
+Agora vou clicar nele.
+
+07:28.900 --> 07:35.700
+OK então o texto será selecionado próximo ponto.
+
+07:36.000 --> 07:37.350
+Duplo click.
+
+07:37.640 --> 07:43.350
+Você vê que clique duas vezes e novamente construtores e direção e pop de.
+
+07:43.410 --> 07:51.520
+E agora, quando você executar este teste, ele deve dizer "Oi" deve escrever em letras maiúsculas e
+
+07:51.530 --> 07:52.420
+deve enviá-lo.
+
+07:52.760 --> 07:57.740
+Veja agora é assim que você pode brincar com as ações da classe.
+
+07:57.770 --> 08:02.870
+Todas as interações do mouse e teclado e nós usamos que Augustas pode acontecer com isso.
+
+08:03.320 --> 08:05.650
+Então você vê isso.
+
+08:06.010 --> 08:06.520
+ESTÁ BEM.
+
+08:06.640 --> 08:08.950
+Quão baixo é o personagem.
+
+08:09.280 --> 08:14.000
+Porque só sabemos que será um seletor se fizermos um duplo clique
+
+08:14.840 --> 08:16.200
+e fingirmos que terminamos.
+
+08:17.170 --> 08:19.330
+OK, então o que mais.
+
+08:19.340 --> 08:21.680
+Então deixe-me fazer mais uma coisa aqui.
+
+08:21.710 --> 08:28.000
+Depois de se mudar para Elliman, siga em frente.
+
+08:28.030 --> 08:37.900
+OK, por isso, se eu quiser, clique com o botão direito neste elemento, como vamos dizer, depois de se mudar para cá,
+
+08:37.910 --> 08:42.560
+quero dar um clique direito para que esta janela apareça.
+
+08:42.920 --> 08:44.400
+Digamos que eu queira clicar nisso.
+
+08:44.640 --> 08:45.930
+Como você faz isso.
+
+08:46.560 --> 08:51.480
+Então, existem dois elementos.
+
+08:51.870 --> 08:56.900
+E eu diria depois de mudar o contexto do cão.
+
+08:57.250 --> 09:03.930
+Assim, com a ajuda do contexto, você pode clicar com o botão direito nesse elemento específico.
+
+09:03.960 --> 09:10.380
+Então deixe-me mostrar rapidamente como isso está bem.
+
+09:11.660 --> 09:17.600
+Então você sabe que é assim que você pode realmente explodir todas as ações que estão presentes naquela
+
+09:17.600 --> 09:18.360
+classe específica.
+
+09:19.040 --> 09:21.820
+E você vê esse clique direito.
+
+09:22.340 --> 09:27.170
+Então, depois de selecionar o seu favorito, clique aqui e a seleção irá para a direita.
+
+09:27.230 --> 09:31.120
+É assim que acontece manualmente, como clique e a seleção é feita.
+
+09:31.250 --> 09:32.720
+E é assim que até rabiscar.
+
+09:32.870 --> 09:34.600
+Isso é bom.
+
+09:34.820 --> 09:42.740
+Existe mais um conceito chamado Dragon drop, onde você pode arrastar e soltar e eu estou usando ações de classe de volta tão
+
+09:43.100 --> 09:48.330
+grande, muitas vezes em quadros LICHTMAN E, em seguida, falando sobre o conceito de quadros.
+
+09:48.430 --> 09:53.460
+Não discuto esse tópico específico porque isso envolve alguns tipos de quadros.
+
+09:53.630 --> 09:58.130
+Então eu volto para essa classe de ação e depois explico como lidar com o Dragon.
+
+09:58.490 --> 10:04.880
+Você ainda tem alguns métodos para se mover e exigir o envolvimento de Daut
+
+10:11.270 --> 10:15.130
+e fazer com que eu copie isso de modo
+
+10:20.430 --> 10:24.550
+que o contexto, como vimos Glycon, não faça Ballindine.
+
+10:24.650 --> 10:26.880
+Você também pode dizer clique e segure.
+
+10:27.190 --> 10:27.710
+ESTÁ BEM.
+
+10:27.930 --> 10:31.560
+E a DoubleClick vimos na próxima palestra e estou falando com os quadros.
+
+10:31.560 --> 10:34.070
+Eu também vou explicar o que é arrastar e soltar.
+
+10:34.380 --> 10:34.800
+ESTÁ BEM.
+
+10:34.830 --> 10:35.700
+Não acompanhe.
+
+10:35.710 --> 10:42.540
+Sabemos que você também pode compensar como se você conhece o índice em seu navegador como o Explorer um
+
+10:42.540 --> 10:49.040
+próximo pode ser comum para um quando você pode simplesmente provar que Deus fez menos por causa da localização.
+
+10:49.100 --> 10:52.190
+Você também pode dizer que eu tenho um elemento certo.
+
+10:52.190 --> 10:54.650
+Realize e envie presentes.
+
+10:54.690 --> 10:55.940
+Você pode simplesmente usar.
+
+10:56.100 --> 10:57.870
+Isso é usado especificamente em dispositivos móveis.
+
+10:58.140 --> 10:58.640
+ESTÁ BEM.
+
+10:58.640 --> 11:03.280
+No celular, você apenas flick assim e você pode usar isso.
+
+11:03.360 --> 11:07.730
+Então é assim que a cláusula de ação é útil para nós.
+
+11:07.910 --> 11:08.390
+ESTÁ BEM.
+
+11:08.550 --> 11:13.890
+Então, estamos falando mais, como eu disse, dessa vez segurando, não arraste e abaixe o Sapir.
+
+11:14.100 --> 11:16.810
+Vou discutir isso quando estou falando de quadros.
+
+11:17.110 --> 11:17.590
+Certo.
+
+11:17.760 --> 11:19.780
+Então, é basicamente sobre este vidro.
+
+11:19.920 --> 11:26.680
+E você pode usar este exemplo como uma prática e jogá-lo nisso e depois dizer OK, obrigado.

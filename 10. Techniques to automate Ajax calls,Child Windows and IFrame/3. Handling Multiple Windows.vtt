@@ -1,0 +1,274 @@
+WEBVTT
+
+00:00:01.500 --> 00:00:02.310
+Right.
+
+00:00:02.440 --> 00:00:10.070
+So this lecture is here how can we handle change with those using selenium so those doesn't make sense
+
+00:00:10.070 --> 00:00:10.250
+.
+
+00:00:10.290 --> 00:00:17.790
+If you click on a link button in page it will trigger and will get over.
+
+00:00:17.850 --> 00:00:18.130
+OK.
+
+00:00:18.150 --> 00:00:22.330
+So even though my windows open when you working.
+
+00:00:22.410 --> 00:00:28.370
+So how do we handle those with automation like how we will switch from window to window.
+
+00:00:28.410 --> 00:00:32.170
+And you wonder how they don't have a built in window.
+
+00:00:32.500 --> 00:00:37.180
+OK so let's see how can we handle these tasks.
+
+00:00:37.210 --> 00:00:39.510
+There's also the number driver.
+
+00:00:39.510 --> 00:00:43.500
+So before we demonstrate you are trying to explain
+
+00:00:46.080 --> 00:00:51.160
+this is in demand sign up page where we can read you a Google account.
+
+00:00:51.330 --> 00:00:53.940
+So if I click here and learn more.
+
+00:00:54.220 --> 00:00:54.960
+OK.
+
+00:00:55.440 --> 00:00:56.520
+It does.
+
+00:00:57.060 --> 00:01:00.740
+Yeah we can see that it opens up a window.
+
+00:01:01.050 --> 00:01:02.970
+Maybe he has a brain that's a brain.
+
+00:01:02.970 --> 00:01:07.330
+We know what arms in the same chain but only here.
+
+00:01:07.380 --> 00:01:07.830
+OK.
+
+00:01:07.950 --> 00:01:09.090
+This is my lab.
+
+00:01:09.210 --> 00:01:14.830
+And when you click on Glenmore we have margaritas on there.
+
+00:01:14.970 --> 00:01:15.490
+OK.
+
+00:01:15.780 --> 00:01:22.970
+So now how do you read that selenium to come out of this pain that end up on the inside.
+
+00:01:23.770 --> 00:01:24.550
+Why.
+
+00:01:24.750 --> 00:01:29.970
+So for example I didn't we'll get to the title.
+
+00:01:30.230 --> 00:01:30.880
+OK.
+
+00:01:31.140 --> 00:01:34.170
+I'm going to leave it open.
+
+00:01:34.170 --> 00:01:43.840
+Now you say that get title was written that day of the day.
+
+00:01:44.180 --> 00:01:44.680
+OK.
+
+00:01:44.820 --> 00:01:49.290
+So by the farm in your browser.
+
+00:01:49.320 --> 00:01:53.650
+I mean it was stay the selenium in the browser.
+
+00:01:53.730 --> 00:01:57.150
+It will stick to the parent window only.
+
+00:01:57.150 --> 00:02:00.410
+So here we have to that this is Berenstain.
+
+00:02:00.610 --> 00:02:04.340
+So they are displaying two different paths in the same window.
+
+00:02:04.830 --> 00:02:09.990
+Here in India we have really that's been the only is opening in some other.
+
+00:02:10.090 --> 00:02:14.370
+That means it's change window which is not close to waiting for.
+
+00:02:14.670 --> 00:02:24.060
+So these are single parent we know only you need to deliberate is which you have control from parent
+
+00:02:24.060 --> 00:02:24.860
+to child.
+
+00:02:25.080 --> 00:02:31.670
+And then you have to work on this and say when the once back is there you have this was back again to
+
+00:02:31.730 --> 00:02:33.400
+no to bed.
+
+00:02:33.810 --> 00:02:37.300
+And then again going on the operations on bed.
+
+00:02:37.620 --> 00:02:38.960
+If we don't it back.
+
+00:02:38.970 --> 00:02:45.750
+So are our resident evil this little child with only eight that are already on about something and whether
+
+00:02:45.920 --> 00:02:47.720
+we have this was very good.
+
+00:02:48.210 --> 00:02:57.120
+So basically what I'm trying to explain here by Biden in Nevada I mean to say the least telling him
+
+00:02:57.150 --> 00:03:02.220
+to stick to the bed and we know the underlying something in Windows.
+
+00:03:02.410 --> 00:03:03.780
+When does it get better.
+
+00:03:03.900 --> 00:03:11.110
+And if you go up on the table you have to switch your tablet and windows and you can walk.
+
+00:03:11.430 --> 00:03:19.050
+So let's see how can we add to this the hell box or so that's just sitting there in the jail and going
+
+00:03:19.050 --> 00:03:25.270
+back to bed but let's see how can we see that bigger.
+
+00:03:25.290 --> 00:03:32.510
+So this is one of the most important concept and the last of this was the famous interrogation again
+
+00:03:32.780 --> 00:03:32.960
+.
+
+00:03:33.090 --> 00:03:37.170
+And then the building doesn't say it's very easy.
+
+00:03:37.170 --> 00:03:38.190
+You need not worry.
+
+00:03:38.220 --> 00:03:45.580
+Let's go and get you out of our landing page.
+
+00:03:47.540 --> 00:03:49.110
+So I
+
+00:03:53.840 --> 00:04:00.730
+need to read the file from the integration
+
+00:04:04.500 --> 00:04:06.990
+case.
+
+00:04:07.370 --> 00:04:07.740
+So
+
+00:04:13.310 --> 00:04:16.170
+now they are good
+
+00:04:19.010 --> 00:04:21.750
+.
+
+00:04:22.570 --> 00:04:32.250
+So again now once we navigated this you know I need to take on this learn more which is actually opening
+
+00:04:32.610 --> 00:04:37.070
+a window.
+
+00:04:38.010 --> 00:04:45.180
+And let's go to the next spot.
+
+00:04:47.560 --> 00:04:48.970
+Can they just walk from
+
+00:04:53.720 --> 00:04:56.160
+Sadar pig.
+
+00:04:57.470 --> 00:05:04.430
+OK so let's run the program here and see how it is all coming in window.
+
+00:05:04.620 --> 00:05:05.060
+OK.
+
+00:05:05.130 --> 00:05:08.170
+And let me also take them by dinner.
+
+00:05:08.400 --> 00:05:09.410
+OK.
+
+00:05:09.450 --> 00:05:11.580
+If I say I don't get.
+
+00:05:12.030 --> 00:05:20.810
+Let's see what I will do for us once I get on that Ling the other window open that are not only two
+
+00:05:20.820 --> 00:05:24.490
+windows the window really really fast.
+
+00:05:24.540 --> 00:05:25.080
+Let's see
+
+00:05:32.690 --> 00:05:35.310
+run as a precaution
+
+00:05:39.910 --> 00:05:44.550
+.
+
+00:05:45.820 --> 00:05:49.500
+The bar open.
+
+00:05:51.690 --> 00:05:55.530
+It's landing on the main page.
+
+00:05:55.530 --> 00:05:57.170
+Yes it does.
+
+00:05:57.270 --> 00:05:59.830
+And does it change when those gone over.
+
+00:06:00.300 --> 00:06:00.860
+OK.
+
+00:06:00.930 --> 00:06:02.890
+So do us now.
+
+00:06:03.450 --> 00:06:06.310
+So by clicking something on this we got children over.
+
+00:06:06.480 --> 00:06:09.390
+And now let's go back and see that I it says great.
+
+00:06:09.400 --> 00:06:20.760
+You are Googling on that means this is bad and we know it does not change when I say by default and
+
+00:06:20.760 --> 00:06:25.490
+then we stick to bed and only have many windows open by side.
+
+00:06:25.530 --> 00:06:27.410
+It will not get out the door.
+
+00:06:27.540 --> 00:06:34.330
+And the analysis is to those again you can it it says great you're Googling on with this debate and
+
+00:06:34.330 --> 00:06:35.050
+so on.
+
+00:06:35.430 --> 00:06:44.270
+So my aim here is now I need to print out the child window by sitting in the stroller.
+
+00:06:45.150 --> 00:06:48.060
+Yeah let's see now how can we see that

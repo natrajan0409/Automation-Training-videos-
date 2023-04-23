@@ -1,0 +1,490 @@
+WEBVTT
+
+00:01.410 --> 00:02.170
+Volte.
+
+00:02.430 --> 00:09.820
+Então, nesta seção, vamos nos concentrar em quadros de ações e manuseio de crianças.
+
+00:10.170 --> 00:10.780
+ESTÁ BEM.
+
+00:10.980 --> 00:13.270
+Então vamos começar com ações.
+
+00:13.380 --> 00:17.070
+Então, o que essas ações classificam em tempo de selênio?
+
+00:17.850 --> 00:25.730
+Então, basicamente, essa classe é projetada especificamente para lidar com interações de mouse e teclado.
+
+00:25.770 --> 00:26.830
+Eles usam isso.
+
+00:27.280 --> 00:27.720
+ESTÁ BEM.
+
+00:27.900 --> 00:35.550
+Além do pai, essa classe é usada para simular a existência do usuário no aplicativo talvez.
+
+00:35.760 --> 00:39.050
+Pode ser mais violento, pode ser.
+
+00:39.230 --> 00:39.720
+Certo.
+
+00:39.860 --> 00:47.780
+Então, esses métodos bastante específicos para lidar com isso em um aplicativo que geralmente fazemos por mouse
+
+00:47.810 --> 00:48.730
+e teclado.
+
+00:48.950 --> 00:49.470
+ESTÁ BEM.
+
+00:49.670 --> 00:56.110
+Então, como eu preciso apenas mover o mouse para um item específico que foi como mouseover.
+
+00:56.380 --> 01:03.980
+Então, temos visto ataques de selênio para clicar, mas não vimos apenas mover nossos shoppings para aquele
+
+01:03.980 --> 01:05.000
+elemento específico.
+
+01:05.270 --> 01:12.690
+Esse tipo de interação, como contexto, na verdade, liga-se ao contexto, no sentido de que a casa contém
+
+01:12.730 --> 01:13.970
+reichlich com selênio.
+
+01:13.990 --> 01:19.900
+Esta é uma das complexidades mais interessantes que podem ser feitas com a ajuda de ações.
+
+01:20.180 --> 01:24.710
+Então, como é que o clique duplo ou como você escreve algo em letras maiúsculas.
+
+01:25.010 --> 01:25.320
+ESTÁ BEM.
+
+01:25.340 --> 01:30.420
+Então o próximo trabalho é bom e deve estar em maiúsculas e morrer e soltar esse elemento.
+
+01:30.560 --> 01:38.270
+Assim, todo o tipo de teclado do mouse e uso de gestos podem ser feitos, pois podemos tormentar a ajuda de
+
+01:38.270 --> 01:40.270
+ações de classe e selênio.
+
+01:41.360 --> 01:48.110
+Agora vamos ver como definir essa classe de ação e como usar esses métodos para executar ações.
+
+01:48.470 --> 01:53.600
+OK, vamos voltar ao seu Eclipse e deixe-me ler para você.
+
+01:53.620 --> 01:54.110
+Além
+
+01:58.820 --> 01:59.740
+disso, as
+
+02:04.140 --> 02:06.490
+ações tomam essa marca de seleção
+
+02:10.330 --> 02:19.030
+de forma desinteressada, de modo que escolher um dos famosos que você não costuma atrapalhar diz que isso é um mito ou não.
+
+02:19.230 --> 02:28.150
+Então, não é assim que muitos Ginsters são menos ricos em 88, o que você vê na página.
+
+02:28.170 --> 02:31.840
+Então, vamos pegar esse aplicativo e usamos isso para lidar com isso.
+
+02:32.010 --> 02:32.450
+ESTÁ BEM.
+
+02:34.380 --> 02:35.720
+ESTÁ BEM.
+
+02:36.340 --> 02:40.520
+E como eu não vou nos levar para esse site.
+
+02:41.010 --> 02:41.540
+Certo.
+
+02:41.760 --> 02:48.090
+Então, aqui, se você mover o mouse para este item, verá que esta
+
+02:50.920 --> 02:55.600
+janela está acima, portanto, basta passar o mouse sobre ela.
+
+02:55.600 --> 02:57.160
+Você não precisa clicar nele.
+
+02:57.430 --> 03:04.150
+Então, se você tem esse tipo de validação, você é um cenário como mover o mouse para
+
+03:04.150 --> 03:08.420
+esse item de menu específico e exibir essa janela específica.
+
+03:08.800 --> 03:09.010
+Certo.
+
+03:09.010 --> 03:11.350
+Este foi o pop up que você está esperando.
+
+03:11.350 --> 03:13.510
+Então, quão reais são eles intactos?
+
+03:13.540 --> 03:15.240
+Então nós vimos.
+
+03:15.680 --> 03:22.450
+Mas, acima de tudo, temos essa imagem que o Windows exibe apenas mozo nesta pequena caixa
+
+03:22.680 --> 03:23.710
+do Simon.
+
+03:23.770 --> 03:27.600
+Então, esse tipo de interação pode ser feito por esses jogos de ação.
+
+03:27.870 --> 03:28.110
+ESTÁ BEM.
+
+03:28.120 --> 03:33.500
+Então, vamos tentar baixar nossa transmissão com a ajuda do
+
+03:39.220 --> 03:39.540
+Facebook.
+
+03:39.570 --> 03:45.070
+Então, se você vir aqui e vir aqui e este é o OK.
+
+03:45.370 --> 03:52.960
+Então, basta praticar para obter esse localizador, vendo o sistema em todos os Donovans diferentes neste arquivo.
+
+03:52.960 --> 03:54.940
+Mas isso nos enganará.
+
+03:55.640 --> 04:02.260
+Basta fazer um híbrido de quero dizer grading o localizador, mas apenas vendo isso é Jim e Robert.
+
+04:02.560 --> 04:09.500
+E amanhã pode não haver um voo para deixar de apoiar o fato de que devemos ter apenas este sistema e
+
+04:09.610 --> 04:10.900
+código disponíveis para nós.
+
+04:10.960 --> 04:15.480
+Então, apenas faça uma prática de fazer isso.
+
+04:16.070 --> 04:16.300
+Certo.
+
+04:16.300 --> 04:22.070
+Então primeiro vamos começar um.
+
+04:22.730 --> 04:26.950
+Deixe-me invocar este teste, incluindo sala
+
+04:29.930 --> 04:31.470
+de motorista.
+
+04:31.630 --> 04:31.900
+&nbsp;
+
+04:36.420 --> 04:40.720
+Bem Miles e os dois últimos 6:13 driver
+
+04:45.970 --> 04:54.400
+é bom, mas lembre-se que precisamos definir a propriedade do sistema para preparar o arquivo ativo.
+
+04:54.440 --> 04:56.140
+Se você não está fazendo esse processo.
+
+04:56.370 --> 04:57.900
+OK vamos fazer isso.
+
+04:58.830 --> 05:02.560
+Ou eu já tenho no meu roteiro só vou copiar colar aqui.
+
+05:02.940 --> 05:03.380
+Sim.
+
+05:03.670 --> 05:06.220
+Então estamos estabelecendo a propriedade de grande.
+
+05:06.560 --> 05:09.660
+Quer ser realmente encontrar o meu trabalho para isso.
+
+05:09.790 --> 05:15.330
+Então essa discussão envolve esse trailer e faz nossos navegadores aparecerem.
+
+05:15.640 --> 05:21.750
+Então, como eu digo, se você não escreve isso, você está dando uma olhada.
+
+05:22.470 --> 05:22.870
+ESTÁ BEM.
+
+05:23.030 --> 05:25.860
+Tão seco
+
+05:32.230 --> 05:41.430
+cão boa escola de volta para ele como.
+
+05:41.760 --> 05:43.730
+Então agora todas as grandes ações.
+
+05:43.780 --> 05:51.140
+Além disso, eles são como selecionar classe que você fez para lidar com rádio ou menus suspensos da mesma forma que estamos
+
+05:51.140 --> 05:54.960
+criando ações de classe para lidar com essas ações de interações.
+
+05:55.010 --> 05:59.640
+É igual a apenas criar um objeto de ação judicial.
+
+06:00.580 --> 06:02.960
+E agora, nessas ações.
+
+06:02.960 --> 06:04.340
+Argumento de classe.
+
+06:04.490 --> 06:06.280
+Você precisa passar o motorista.
+
+06:08.150 --> 06:17.510
+Então o motorista agora terá as habilidades de abertura da classe de ação Mr. assim, na maioria dos casos de interações de
+
+06:17.710 --> 06:18.610
+fronteira.
+
+06:18.710 --> 06:19.200
+Certo.
+
+06:19.440 --> 06:27.480
+Então, como estou passando meus recursos de driver para as ações e agora este auxiliar tem recursos
+
+06:27.570 --> 06:31.750
+poderosos de lidar com as páginas com essas interações.
+
+06:31.960 --> 06:35.100
+Então diga um cachorro.
+
+06:35.760 --> 06:40.800
+Então, tudo isso não é para você brincar com ações.
+
+06:40.820 --> 06:45.540
+Não é minha exigência aqui é passar para esse elemento específico.
+
+06:45.580 --> 06:46.400
+É isso aí.
+
+06:46.890 --> 06:51.390
+Então vamos ver se temos algo como mover Twellman am.
+
+06:51.510 --> 06:59.070
+E você verá que você se moveu para um limite para que possa se deslocar confortavelmente para um elemento
+
+06:59.070 --> 07:01.840
+específico passando esse elemento como um argumento.
+
+07:02.340 --> 07:02.630
+ESTÁ BEM.
+
+07:02.640 --> 07:10.700
+Então, em que elemento específico nós precisamos olhar se você colocar aqui então automaticamente esta classe de ação.
+
+07:10.700 --> 07:17.480
+Mova seu mouse para aquele elemento específico exatamente assim e você verá aquela tela pop-up.
+
+07:18.180 --> 07:18.600
+Certo.
+
+07:18.720 --> 07:23.380
+Então, esta é a minha olhada nisso e navegue pelo link A.
+
+07:24.090 --> 07:24.500
+Certo.
+
+07:24.660 --> 07:26.310
+Então deixe-me fazer isso aqui.
+
+07:26.430 --> 07:27.160
+Maldito.
+
+07:27.540 --> 07:30.730
+Então eles precisam passar este argumento.
+
+07:30.780 --> 07:41.890
+Então, isso significa tentar o cão encontrar o lamento para ver isso é uma espécie de
+
+07:46.200 --> 07:47.030
+âncora.
+
+07:47.070 --> 07:47.350
+ESTÁ BEM.
+
+07:47.390 --> 07:55.160
+Deixe-me comprar a minha nova tesoura porque eu não quero depender deste bom livro nas costas e ainda assim eu
+
+07:55.180 --> 07:58.420
+serei igual ao que posso dizer por não.
+
+07:58.530 --> 07:59.180
+Sim.
+
+07:59.350 --> 08:06.630
+Porque eu parece muito único.
+
+08:06.740 --> 08:09.210
+Então eu não esperava apenas ver isso.
+
+08:10.110 --> 08:13.530
+Você tem o link aqui.
+
+08:13.620 --> 08:15.070
+Este é o link.
+
+08:15.300 --> 08:16.210
+Então copie isso.
+
+08:16.210 --> 08:24.090
+Diz aqui sentado aqui agora com esse passo ele se move para aquele elemento específico.
+
+08:24.140 --> 08:27.410
+Depois disso, você precisa acreditar nisso e agir.
+
+08:27.680 --> 08:32.650
+Portanto, ao contrário de outras métricas e selênio, você não pode simplesmente ver as etapas aqui.
+
+08:32.930 --> 08:37.760
+Então, muitas vezes realizando sua ação, dizendo elemento.
+
+08:38.030 --> 08:40.840
+Você precisa construir esse tipo de ação.
+
+08:40.980 --> 08:44.940
+Então eu acredito que o escuro vai.
+
+08:45.530 --> 08:49.020
+Isso significa que esta etapa está pronta para ser executada.
+
+08:49.440 --> 08:49.880
+ESTÁ BEM.
+
+08:49.970 --> 08:56.990
+Mais uma vez eu estou dizendo que quando você escreve essa conta é essa morte que significa que agora está
+
+08:57.490 --> 08:58.440
+pronta para executá-la.
+
+08:58.610 --> 09:06.770
+Mas a última coisa que você quer executar, então você precisa dar um passo para trás desta conta o coração
+
+09:07.010 --> 09:08.470
+bater agora vai executar.
+
+09:08.770 --> 09:11.540
+Então é assim que você sabe que eles projetaram suas ações.
+
+09:11.550 --> 09:18.650
+Além disso, eu não sei por que você está escrevendo especificamente esses dois escuros, não execute porque podemos usar
+
+09:18.650 --> 09:25.460
+composto compósito de ação composta no sentido depois de mover o marcador e escuro, você pode executar qualquer outra
+
+09:25.520 --> 09:26.660
+operação escura novamente.
+
+09:26.720 --> 09:32.380
+Quais são as ações de operações que podemos executar em uma única etapa?
+
+09:32.700 --> 09:36.740
+E meu próximo exemplo como fazer as ações compostas.
+
+09:36.980 --> 09:44.510
+Então, uma vez que você tenha todas as ações, você simplesmente dirá para mover esta sequência de ações
+
+09:45.110 --> 09:47.350
+autorizada e uma vez executada.
+
+09:47.610 --> 09:54.260
+Mas se você perdeu alguma coisa para isso, este passo não será executado.
+
+09:54.650 --> 09:58.860
+E então o que temos dito a você esta manhã, Miles.
+
+09:58.970 --> 09:59.330
+É isso aí.
+
+09:59.330 --> 10:00.540
+E nós estamos vivendo.
+
+10:01.060 --> 10:07.490
+OK, vamos ficar sem script e ver se a maioria é bem sucedida em mover isso e que
+
+10:07.490 --> 10:09.600
+a janela pop-up está sendo exibida.
+
+10:09.850 --> 10:10.380
+Certo.
+
+10:10.630 --> 10:10.950
+Certo.
+
+10:10.960 --> 10:14.750
+Argila correndo como aplicativo.
+
+10:15.370 --> 10:15.910
+ESTÁ BEM.
+
+10:23.090 --> 10:25.560
+Então ele tenta trazê-los não é assim.
+
+10:26.020 --> 10:31.840
+E você verá que aquela janela foi aberta.
+
+10:31.980 --> 10:33.030
+O que podemos fazer.
+
+10:33.110 --> 10:34.290
+Nós acabamos de sair.
+
+10:34.520 --> 10:38.830
+Então é assim que você pode conseguir isso com a ajuda do copo de ação.
+
+10:38.930 --> 10:39.350
+Certo.
+
+10:39.560 --> 10:40.850
+Então, na próxima aula.
+
+10:41.030 --> 10:43.360
+Vamos tentar construir algumas ações compostas.
+
+10:43.640 --> 10:45.240
+Então, vamos escolher mais um cenário.
+
+10:45.250 --> 10:51.610
+Como eu quero entrar olá, mas isso é tão simples, certo.
+
+10:51.620 --> 10:54.130
+Precisamos obter este objeto patos e presentes.
+
+10:54.320 --> 10:55.150
+Isso é o que fazemos.
+
+10:55.360 --> 10:59.580
+Mas aqui eu quero fazer isso em letras maiúsculas.
+
+11:00.020 --> 11:03.580
+Então, como você insere uma string nas letras maiúsculas.
+
+11:03.610 --> 11:05.380
+Você quer dizer a caixa de pesquisa.
+
+11:06.050 --> 11:07.480
+Vamos ver na próxima eleição.
+
+11:07.850 --> 11:08.270
+Obrigado.

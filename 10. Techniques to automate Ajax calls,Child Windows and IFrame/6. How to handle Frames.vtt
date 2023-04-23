@@ -1,0 +1,439 @@
+WEBVTT
+
+00:01.520 --> 00:02.210
+Volte.
+
+00:02.460 --> 00:08.710
+Então vamos falar sobre frames e lidar com eles vendendo o driver.
+
+00:08.970 --> 00:14.470
+Então, na última classe, vimos todas essas ações da classe Metaxa, exceto arrastar e soltar para a direita.
+
+00:14.790 --> 00:20.170
+Então, nesta palestra Vamos falar sobre quadros e trazer este conceito de arrastar e soltar aqui.
+
+00:20.640 --> 00:21.200
+ESTÁ BEM.
+
+00:21.420 --> 00:33.290
+Então, deixe-me voltar para o meu grau de Eclipse mais um teste para os EUA.
+
+00:33.570 --> 00:34.500
+Isto está
+
+00:38.930 --> 00:39.570
+certo.
+
+00:42.050 --> 00:53.230
+Agora, assim como eu uso o driver do Chrome para invocar o meu teste.
+
+00:53.980 --> 00:58.000
+Eu faço como um site para explicar quadros.
+
+00:58.250 --> 00:59.150
+Deixe-me
+
+01:03.380 --> 01:12.220
+ir, você tem que fazer isso no Firefox.
+
+01:12.240 --> 01:19.800
+OK então agora eu quero pegar esse elemento.
+
+01:20.400 --> 01:22.480
+Este é o meu requisito simples.
+
+01:22.530 --> 01:25.540
+Então, agora, o Fosler pode ser capaz de fazer isso ou não.
+
+01:25.860 --> 01:32.410
+Então, quando alguém lhe pede para clicar no elemento que é muito fácil para nós usarmos para desenvolver nossas ferramentas.
+
+01:32.840 --> 01:33.210
+ESTÁ BEM.
+
+01:33.220 --> 01:42.060
+Ou eu simplesmente diria clique direito inspecionar elemento mesmo sem usar o firebug e revidar.
+
+01:42.390 --> 01:47.330
+Então, quando eu rolo meu mouse e não gosto do texto.
+
+01:47.440 --> 01:50.520
+Ok, se você quiser a caixa de sintaxe.
+
+01:50.720 --> 01:52.440
+Então minha ideia é rastreável.
+
+01:52.860 --> 01:58.880
+E eu também tenho o meu espaço aliasing Dragonball e não é fácil para mim clicar nesse direito.
+
+01:59.170 --> 02:01.020
+Vamos fazer isso.
+
+02:01.470 --> 02:07.740
+Apenas siga-me e você entenderá o motivo pelo qual essas chamas e o VEIDT é
+
+02:07.740 --> 02:10.930
+um tratamento especial para quadros e selênio.
+
+02:14.420 --> 02:16.580
+Então nós batemos e recomeçamos todos vocês.
+
+02:16.750 --> 02:24.100
+Então, quando chegarmos, você pode simplesmente dizer que o motorista não encontra homens na porta.
+
+02:24.280 --> 02:24.500
+&nbsp;
+
+02:29.190 --> 02:35.930
+Isso é preto e nós gostamos de ver isso aqui.
+
+02:36.000 --> 02:38.280
+Vamos dizer que não é exibido.
+
+02:41.680 --> 02:43.980
+Vou apenas clicar e clicar nele.
+
+02:44.280 --> 02:48.340
+Eu sei que nada acontece quando você clica, mas apenas certifique-se que passa com sucesso.
+
+02:48.450 --> 02:49.630
+É isso aí.
+
+02:50.000 --> 02:56.610
+Então, agora eu não estou fazendo isso com o General Firefox, mas se você quiser ter mesmo que as mãos.
+
+02:56.640 --> 03:01.300
+Mais uma vez eu estou explicando porque nós fizemos o uso do firebug e lutamos sobre isso.
+
+03:01.370 --> 03:08.160
+Você pode apenas dizer que uma vez que você começa Hamsun com este teste clique direito inspecionar
+
+03:08.160 --> 03:16.160
+elemento e você também tem spike sua pá e, em seguida, caixa e você vê que retrátil e usar isso.
+
+03:16.190 --> 03:21.760
+Então, uma vez que você sinta um pouquinho, é esse teste de navegador, por favor, essa palavra Fineberg e.
+
+03:21.990 --> 03:25.620
+OK, isso não vai te impedir de pensar.
+
+03:25.620 --> 03:32.040
+Bem, certamente significa que, se você usar este Fineberg, desenvolva uma ferramenta e obtenha um objeto apenas vendo
+
+03:32.040 --> 03:35.090
+essa linha em destaque azul, como fazemos no Firefox.
+
+03:35.390 --> 03:40.080
+E isso lhe dará confiança suficiente para jogar e nos dará razão.
+
+03:40.080 --> 03:45.330
+Então, eu fiz dessa maneira selecionando certo com Mitt neste dist.
+
+03:45.450 --> 03:50.860
+Tão simples teste dizendo para acessar o site e clicar na caixa.
+
+03:50.880 --> 03:52.380
+É isso aí.
+
+03:52.380 --> 03:54.930
+E é abertura.
+
+03:54.940 --> 03:56.900
+Largue uma pequena janela.
+
+03:56.980 --> 04:01.260
+Isso é um teste é concluído e você verá a poeira falhou.
+
+04:01.450 --> 04:12.800
+Por que você diz incapaz de localizar a palavra rastreável do ID do elemento porque nós dificilmente porque continuamos dizendo estes draggle.
+
+04:13.110 --> 04:16.950
+E quando você se move entre as caixas inteiras, é selecionado.
+
+04:17.400 --> 04:18.000
+Certo.
+
+04:18.260 --> 04:22.470
+Mas se você vir aqui, diz que não consigo localizar o elemento.
+
+04:23.100 --> 04:24.660
+Então, o que está acontecendo aqui?
+
+04:25.140 --> 04:28.190
+Porque me deixe abrir para isso.
+
+04:28.200 --> 04:32.300
+Mas agora para explicar por que ele inventa falhar.
+
+04:32.890 --> 04:33.320
+ESTÁ BEM.
+
+04:33.330 --> 04:38.560
+Só para ter uma boa ideia e então você deveria isso agora eles.
+
+04:38.640 --> 04:40.230
+Mesma coisa certa.
+
+04:40.770 --> 04:42.480
+Mas ainda assim falhou.
+
+04:42.600 --> 04:44.220
+Razão por trás disso é isso.
+
+04:44.240 --> 04:53.850
+Toda vez que uma caixa está em quadros, porque tudo que eu quero é que os quadros sejam um componente publicado nessas
+
+04:53.850 --> 04:55.150
+páginas da web.
+
+04:55.470 --> 04:55.750
+ESTÁ BEM.
+
+04:55.770 --> 05:01.210
+Então aquela cantena específica que é independente dessa história.
+
+05:01.560 --> 05:09.540
+Portanto, mesmo o frame não é algo sistêmico ou que esteja competentemente preparado e eles o forçaram em campo como
+
+05:09.840 --> 05:11.730
+um container como uma caixa.
+
+05:11.730 --> 05:18.570
+Então, digamos que quando há essa obrigação, ele acaba no tribunal e ele deixará este lugar neste
+
+05:18.570 --> 05:19.160
+lugar.
+
+05:19.290 --> 05:23.780
+Ele só vai trazer o mesmo componente e implantado aqui.
+
+05:23.910 --> 05:27.380
+Então, exatamente o componente entra em ação.
+
+05:27.570 --> 05:33.790
+Então é assim que as pessoas são projetadas que eles têm um tipo de conceito de quadro quando usam isso.
+
+05:34.020 --> 05:35.780
+Então isso é diferente para nós.
+
+05:36.060 --> 05:45.240
+Mas sempre que há esse tipo de chamas, um navegador como colocar os recipientes em uma caixa de selênio
+
+05:45.300 --> 05:47.920
+não consegue identificar os quadros.
+
+05:48.330 --> 05:54.090
+Se você vir quadros no aplicativo da web, não poderá lidar com isso de uma maneira normal.
+
+05:54.090 --> 05:54.560
+Certo.
+
+05:54.780 --> 06:01.330
+Você precisa dizer a eles que isso é em quadros, portanto, manipule-os de acordo.
+
+06:01.440 --> 06:08.150
+Você precisa construir selênio antes de fazer isso, você não o constrói automaticamente.
+
+06:08.220 --> 06:14.760
+Este IED é uma parte deste navegador e leva e que sua equipe vai chamá-lo e não
+
+06:14.760 --> 06:15.360
+vai encontrá-lo.
+
+06:15.360 --> 06:22.540
+E se você simplesmente entrar no quadro, então ele saberá e pegará os quadros e então ele morrerá no rosto.
+
+06:22.690 --> 06:23.940
+Mas esse é o conceito.
+
+06:24.270 --> 06:24.730
+ESTÁ BEM.
+
+06:24.870 --> 06:30.140
+Então, se você quiser evitar quadros, você pode simplesmente dizer que eu já tenho isso.
+
+06:30.350 --> 06:31.210
+Sim.
+
+06:31.600 --> 06:39.480
+O que são quadros no design, o contexto dos quadros do navegador faz parte da face, que
+
+06:39.540 --> 06:42.210
+exibe conteúdo independente como um contêiner.
+
+06:42.630 --> 06:43.250
+ESTÁ BEM.
+
+06:43.530 --> 06:50.950
+E os homens que entram neste quadro, como o que vemos, podem não vir do mesmo site que
+
+06:51.990 --> 06:53.740
+agora os elementos exibem.
+
+06:53.900 --> 07:00.030
+É uma definição em si diz que os elementos exibem os elementos e o quadro não exibido na página
+
+07:00.030 --> 07:02.810
+da web pode vir de fora do site.
+
+07:03.000 --> 07:09.060
+Se for esse o caso, precisamos permitir que o selênio seja o mesmo para que o edifício que você está vendendo-lhes
+
+07:09.420 --> 07:11.610
+um driver dizendo entrar no quadro e manuseio.
+
+07:12.000 --> 07:12.520
+ESTÁ BEM.
+
+07:12.610 --> 07:19.740
+Mas há um terceiro interruptor escuro para o motorista.
+
+07:19.740 --> 07:29.040
+Então, basicamente, estamos mudando do nosso driver um objeto verbo para quadros Konev e você verá que
+
+07:29.040 --> 07:31.120
+o tratamento fica bem.
+
+07:31.530 --> 07:40.010
+Você pode analisá-las em quadros, mas como um argumento, para que, se você disser especificamente o quadro 1 e as figuras mudarem para
+
+07:40.030 --> 07:41.230
+a minha diversão.
+
+07:41.480 --> 07:47.590
+Então eles brincam com luvas e torcem para aquele quadro rápido específico naquela página da web e então tentam
+
+07:47.590 --> 07:52.660
+identificar o elemento como ele diz para o quadro, então ele vai pegar essa idéia.
+
+07:53.150 --> 07:53.710
+ESTÁ BEM.
+
+07:53.970 --> 07:59.580
+Ou se você pode mudar para o quadro usando acreditar no evento são ID do quadro.
+
+08:00.040 --> 08:04.540
+Se você conhece o amigo, o chefe, o amigo, então eles terão que trocar para eles se
+
+08:04.540 --> 08:08.070
+você não sabe se eles podem passar em decks como eles são rápidos.
+
+08:08.120 --> 08:15.330
+Em segundo lugar, se você não sabe nem o índice ou três ou talvez você pode passar o elemento de que livre.
+
+08:15.610 --> 08:17.740
+Vamos tentar entender todas essas três métricas.
+
+08:17.760 --> 08:19.310
+OK eu vou explicar esses três.
+
+08:19.360 --> 08:22.790
+Talvez pareça confuso para você agora.
+
+08:23.080 --> 08:24.070
+Então mude
+
+08:27.080 --> 08:33.110
+para vamos voltar para o Firefox e tentar entender parte desse quadro.
+
+08:33.670 --> 08:34.270
+ESTÁ BEM.
+
+08:34.520 --> 08:45.170
+Então, uma coisa é um truque ou um cupom quando você usa o seu firebug ou 5 pot e fica
+
+08:45.170 --> 08:47.840
+de olho no lado esquerdo.
+
+08:47.840 --> 08:53.480
+Em geral, ele irá deslocar a janela, mas é algo que você pode redimensionar e você
+
+08:53.480 --> 08:59.710
+verá a janela superior que é parte dela normalmente, mas quando clico nela, você vê que isso está
+
+08:59.750 --> 09:01.510
+dizendo algo como um quadro.
+
+09:01.580 --> 09:08.460
+Então isso significa que com isso você pode chegar a uma conclusão básica que eu acho que é de graça.
+
+09:08.680 --> 09:14.710
+Então uma coisa é que falhará dizendo que objeto não é divertido quando ninguém está dizendo isso para
+
+09:14.710 --> 09:21.880
+ficar de olho no lado esquerdo e ver se é algo chamado de livre e isso significa que você pode chegar à
+
+09:21.880 --> 09:24.370
+conclusão de que isso cai nessa caixa .
+
+09:24.430 --> 09:29.000
+Agora, como você encontra em três que você aprendeu, pegue a chama do fogo da luta.
+
+09:29.140 --> 09:35.140
+Você verá que nunca encontrará informações que sejam gratuitas para ver que precisa voltar.
+
+09:35.160 --> 09:41.910
+Você é ou ainda Gore ou você pode dizer inspecionar elemento disto.
+
+09:42.250 --> 09:49.310
+Então, infelizmente, as informações do quadro não serão obtidas desse site específico.
+
+09:49.870 --> 09:54.160
+Então você vê aqui quando eu digo inspecionar elemento.
+
+09:54.280 --> 10:02.040
+Este é o dragão vai sair para ver minas e você vê aqui i3.
+
+10:02.530 --> 10:05.820
+E quando eu movo meu mouse, ele é selecionado dentro desta caixa.
+
+10:05.950 --> 10:07.550
+Então isso significa que eu me importo.
+
+10:07.570 --> 10:15.570
+Eu sei que esse é o quadro quando eu fecho isso e isso é o que está dentro desse quadro.
+
+10:15.580 --> 10:21.740
+Agora quero mudar para esse quadro para que meu selênio entenda e venha até aqui e identifique
+
+10:21.770 --> 10:22.620
+o elemento.
+
+10:23.040 --> 10:23.600
+ESTÁ BEM.
+
+10:23.830 --> 10:25.480
+Então esse é o conceito.
+
+10:25.480 --> 10:29.360
+Agora, nosso próximo desafio é como podemos fazer isso por eles.
+
+10:29.500 --> 10:34.930
+Como eu disse aqui você pode alternar por string ou frame ID ou desenvolvimento.
+
+10:35.230 --> 10:40.230
+Então, usando o fluxo do fluxo e que você pode alternar para este quadro.
+
+10:40.540 --> 10:41.040
+Certo.
+
+10:41.290 --> 10:46.530
+Então, a próxima etapa, vamos ver como podemos mudar para este quadro, passando-lhe um documento vivo.
+
+10:46.690 --> 10:49.640
+Enquanto isso, quero que você apenas toque.
+
+10:49.680 --> 10:52.990
+Você poderia ter um clipe na sua frente andando comigo.
+
+10:53.090 --> 10:55.420
+Basta ver como posso mudar para este quadro.
+
+10:55.870 --> 10:56.280
+Certo.
+
+10:56.440 --> 10:58.620
+E eu vou te explicar na próxima eleição.
+
+10:58.870 --> 10:59.740
+Obrigado.
